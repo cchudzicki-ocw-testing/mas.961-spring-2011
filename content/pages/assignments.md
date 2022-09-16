@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets for the course, a description
+  of the final project, and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -80,4 +82,4 @@ The Data for Scientific Networks and the Bomb ({{% resource_link 84198f37-508b-3
 
 The Chicago World's Fair - MIT Students ({{% resource_link 92db8385-7b18-33cf-56ac-0c452eb9e9d0 "PDF" %}}) (Courtesy of David Lee, Xiaoji Chen, and Jennifer Dunnam. Used with permission.)
 
-The visualizations for The Chicago World's Fair (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0af196f5-0f07-f966-f5b5-a72034846aa8 "PDF" %}}) (Courtesy of David Lee, Xiaoji Chen, and Jennifer Dunnam. Used with permission.)
+The visualizations for The Chicago World's Fair ({{% resource_link 0af196f5-0f07-f966-f5b5-a72034846aa8 "PDF" %}}) (Courtesy of David Lee, Xiaoji Chen, and Jennifer Dunnam. Used with permission.)
